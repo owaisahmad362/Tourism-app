@@ -17,7 +17,7 @@ import RecentBlog from './Components/RecentBlog';
 import Customers from './Components/Customers';
 import Destination from './Components/Destination';
 import Footer from './Components/Footer';
-import Icons from './Components/icons';
+import Icons from './Components/Icons';
 import Family from './Components/Family';
 import Presidential from './Components/Presidential';
 import MoreFeature from './Components/MoreFeature';
@@ -29,7 +29,7 @@ import Team from './Components/Team';
 function App() {
   return (
     <Router>
-      {/* Main Routing Section */}
+      
       <Routes>
         {/* Home page route accessible from both "/" and "/home" */}
         <Route 
